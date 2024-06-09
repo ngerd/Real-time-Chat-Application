@@ -29,5 +29,4 @@ const useSendMessage = () => {
 
 	return { sendMessage, loading };
 };
-
 export default useSendMessage;
